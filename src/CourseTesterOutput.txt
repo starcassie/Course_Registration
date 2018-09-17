@@ -1,0 +1,125 @@
+Media Studies
+0 enrolled (maximum allowed 5)
+0 on waitlist (maximum allowed 5)
+
+*****TESTING ADDS
+Adam Ant (S925) added successfully
+Bob Barker (S713) not added
+Chevy Chase (S512) added successfully
+Doris Day (S513) added successfully
+Emilio Estevez (S516) added successfully
+Farrah Fawcet (S956) added successfully
+Greta Garbo (S419) added successfully
+Helen Hunt (S281) added successfully
+Jack Johnson (S790) added successfully
+Kim Kardashian (S336) added successfully
+Martina McBride (S156) added successfully
+Renne Russo (S219) not added
+Susan Serandon (S472) not added
+Vince Vaughn (S892) not added
+Walt Whitman (S901) not added
+
+Media Studies
+5 enrolled (maximum allowed 5)
+	Adam Ant (S925)
+	Chevy Chase (S512)
+	Doris Day (S513)
+	Emilio Estevez (S516)
+	Farrah Fawcet (S956)
+5 on waitlist (maximum allowed 5)
+	Greta Garbo (S419)
+	Helen Hunt (S281)
+	Jack Johnson (S790)
+	Kim Kardashian (S336)
+	Martina McBride (S156)
+
+Chevy Chase (S512) not added
+
+Media Studies
+5 enrolled (maximum allowed 5)
+	Adam Ant (S925)
+	Chevy Chase (S512)
+	Doris Day (S513)
+	Emilio Estevez (S516)
+	Farrah Fawcet (S956)
+5 on waitlist (maximum allowed 5)
+	Greta Garbo (S419)
+	Helen Hunt (S281)
+	Jack Johnson (S790)
+	Kim Kardashian (S336)
+	Martina McBride (S156)
+
+Helen Hunt (S281) not added
+
+Media Studies
+5 enrolled (maximum allowed 5)
+	Adam Ant (S925)
+	Chevy Chase (S512)
+	Doris Day (S513)
+	Emilio Estevez (S516)
+	Farrah Fawcet (S956)
+5 on waitlist (maximum allowed 5)
+	Greta Garbo (S419)
+	Helen Hunt (S281)
+	Jack Johnson (S790)
+	Kim Kardashian (S336)
+	Martina McBride (S156)
+
+*****TESTING DROPS
+Chevy Chase (S512) dropped successfully
+
+Media Studies
+5 enrolled (maximum allowed 5)
+	Adam Ant (S925)
+	Doris Day (S513)
+	Emilio Estevez (S516)
+	Farrah Fawcet (S956)
+	Greta Garbo (S419)
+4 on waitlist (maximum allowed 5)
+	Helen Hunt (S281)
+	Jack Johnson (S790)
+	Kim Kardashian (S336)
+	Martina McBride (S156)
+
+Walt Whitman (S901) not dropped
+
+Media Studies
+5 enrolled (maximum allowed 5)
+	Adam Ant (S925)
+	Doris Day (S513)
+	Emilio Estevez (S516)
+	Farrah Fawcet (S956)
+	Greta Garbo (S419)
+4 on waitlist (maximum allowed 5)
+	Helen Hunt (S281)
+	Jack Johnson (S790)
+	Kim Kardashian (S336)
+	Martina McBride (S156)
+
+Jack Johnson (S790) dropped successfully
+
+Media Studies
+5 enrolled (maximum allowed 5)
+	Adam Ant (S925)
+	Doris Day (S513)
+	Emilio Estevez (S516)
+	Farrah Fawcet (S956)
+	Greta Garbo (S419)
+3 on waitlist (maximum allowed 5)
+	Helen Hunt (S281)
+	Kim Kardashian (S336)
+	Martina McBride (S156)
+
+Adam Ant (S925) dropped successfully
+
+Media Studies
+5 enrolled (maximum allowed 5)
+	Doris Day (S513)
+	Emilio Estevez (S516)
+	Farrah Fawcet (S956)
+	Greta Garbo (S419)
+	Helen Hunt (S281)
+2 on waitlist (maximum allowed 5)
+	Kim Kardashian (S336)
+	Martina McBride (S156)
+
