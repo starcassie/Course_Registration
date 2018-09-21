@@ -135,7 +135,7 @@ public class Course {
 	
 	public boolean isStudentOnRoster(Student studentToCheck) {
 		for(Student rosterStudent : this.roster) {
-			if( studentToCheck != null & studentToCheck == rosterStudent ){
+			if( studentToCheck != null & studentToCheck.equals(rosterStudent) ){
 				return true;
 			}
 		}
@@ -145,7 +145,7 @@ public class Course {
 	
 	public boolean isStudentOnWaitlist(Student studentToCheck) {
 		for(Student waitlistedStudent : this.waitlist) {
-			if( studentToCheck != null & studentToCheck == waitlistedStudent ){
+			if( studentToCheck != null & studentToCheck.equals(waitlistedStudent) ){
 				return true;
 			}
 		}
